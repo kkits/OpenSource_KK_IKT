@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8cf876a9-c807-493f-bdfb-2a0f0fdf073c" name="a00534@W0430-8530 2012-01-19 22:42:50" runUser="PROD\a00534" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b0f4d204-9e4a-437b-bea5-d17b46c3985a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="a00534_W0430-8530 2012-01-19 22_42_50" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-01-19T22:42:50.5798150+01:00" queuing="2012-01-19T22:43:05.2356532+01:00" start="2012-01-19T22:43:07.7447967+01:00" finish="2012-01-19T22:43:08.1098176+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ForsendelseConstructorTest" storage="d:\temp\02idrmeu.1vp\netstestprosjekt.dll" id="640aede0-553a-da01-719c-71c4e5bd396a">
+      <Execution timeOut="1800000" id="5b747b8f-55dc-43ef-94b1-671c3034a6f9" />
+      <TestMethod codeBase="D:/Temp/02idrmeu.1vp/NetsTestProsjekt.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="NetsTestProsjekt.ForsendelseTest, NetsTestProsjekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ForsendelseConstructorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="640aede0-553a-da01-719c-71c4e5bd396a" executionId="5b747b8f-55dc-43ef-94b1-671c3034a6f9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5b747b8f-55dc-43ef-94b1-671c3034a6f9" testId="640aede0-553a-da01-719c-71c4e5bd396a" testName="ForsendelseConstructorTest" computerName="W0430-8530" duration="00:00:00.0171915" startTime="2012-01-19T22:43:07.9338075+01:00" endTime="2012-01-19T22:43:08.0208125+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5b747b8f-55dc-43ef-94b1-671c3034a6f9">
+    </UnitTestResult>
+  </Results>
+</TestRun>

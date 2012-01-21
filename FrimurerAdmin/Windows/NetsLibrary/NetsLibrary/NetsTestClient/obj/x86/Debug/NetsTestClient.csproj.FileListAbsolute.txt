@@ -1,0 +1,7 @@
+D:\Data\Frimureradmin\NetsLibrary\NetsLibrary\NetsTestClient\bin\Debug\NetsTestClient.exe
+D:\Data\Frimureradmin\NetsLibrary\NetsLibrary\NetsTestClient\bin\Debug\NetsTestClient.pdb
+D:\Data\Frimureradmin\NetsLibrary\NetsLibrary\NetsTestClient\bin\Debug\NetsLibrary.dll
+D:\Data\Frimureradmin\NetsLibrary\NetsLibrary\NetsTestClient\bin\Debug\NetsLibrary.pdb
+D:\Data\Frimureradmin\NetsLibrary\NetsLibrary\NetsTestClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Frimureradmin\NetsLibrary\NetsLibrary\NetsTestClient\obj\x86\Debug\NetsTestClient.exe
+D:\Data\Frimureradmin\NetsLibrary\NetsLibrary\NetsTestClient\obj\x86\Debug\NetsTestClient.pdb
